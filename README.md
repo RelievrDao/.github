@@ -1,5 +1,3 @@
-# .GitHub 
-
 # RelievrDAO
 
 RelievrDAO is an organization dedicated to transforming ERP workflows into DAO tooling for NGOs and Non-Profits. Our mission is to create more efficient and transparent systems that enable these organizations to better serve their communities.
